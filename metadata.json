@@ -1,0 +1,7 @@
+{
+  "name": "AttendSphere - College Attendance Management System",
+  "description": "Comprehensive college attendance tracker created by Amresh Chaubey for Semester 3 with 3D background, timetable integration, 75% criteria alerts, bunk calculator, and student portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
