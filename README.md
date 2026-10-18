@@ -1,74 +1,77 @@
-# 🎓 AttendSphere – College Attendance Management System
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AttendSphere-College%20ERP-blue?style=for-the-badge" alt="AttendSphere">
-  <img src="https://img.shields.io/badge/React-TypeScript-blue?style=for-the-badge" alt="React and TypeScript">
-  <img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge" alt="Published">
-</p>
+# 🎓 AttendSphere
+### College Attendance Management System
 
-<p align="center">
-  A modern College Attendance Management System built to simplify attendance tracking and academic monitoring.
-</p>
+**Smart Attendance. Better Academic Tracking.**
 
-<p align="center">
-  <a href="https://github.com/iamresh7355/College-attendance-project">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repository">
-  </a>
-  <a href="https://www.linkedin.com/in/amresh-chaubey-57a119415/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+A modern college attendance dashboard designed to simplify attendance tracking, monitor academic performance, and manage attendance shortages.
 
----
+<br>
 
-## 🌐 Project Links
+<a href="https://codesphere-amresh.ai.studio/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-2563EB?style=for-the-badge" alt="Live Demo">
+</a>
 
-- 🚀 **Live Demo:** [Open AttendSphere](PASTE_YOUR_PUBLISHED_APP_URL_HERE)
-- 💻 **GitHub Repository:** [View Source Code](https://github.com/iamresh7355/College-attendance-project)
-- 👨‍💻 **Developer GitHub:** [@iamresh7355](https://github.com/iamresh7355)
-- 🔗 **LinkedIn Profile:** [Amresh Chaubey](https://www.linkedin.com/in/amresh-chaubey-57a119415/)
+<a href="https://github.com/iamresh7355/College-attendence-project">
+  <img src="https://img.shields.io/badge/💻_GitHub-Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code">
+</a>
+
+<br><br>
+
+![Project](https://img.shields.io/badge/Project-College%20ERP-blue)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-3178C6)
+![Build Tool](https://img.shields.io/badge/Build-Vite-646CFF)
+![Status](https://img.shields.io/badge/Status-Published-success)
+
+</div>
 
 ---
 
 ## 📌 About the Project
 
-**AttendSphere** is a modern College Attendance Management System developed by **Amresh Chaubey**, a B.Tech Computer Science and Engineering student.
+**AttendSphere** is a modern College Attendance Management System developed by **Amresh Chaubey**.
 
-The application provides an interactive dashboard for monitoring student attendance, tracking lectures, identifying attendance shortages, and managing academic information.
+The project aims to simplify college attendance management through an interactive dashboard that displays attendance statistics, tracks lectures, identifies students with attendance shortages, and provides useful academic tools.
 
-It is designed to make college attendance management easier, faster, and more organized.
+The interface features a modern dark theme, attendance analytics, timetable integration, defaulter alerts, a bunk calculator, and a student portal.
 
-## ✨ Features
+## ✨ Key Features
 
-- 📊 Attendance Analytics Dashboard
-- 📝 Daily Attendance Management
-- 🚨 75% Attendance Criteria Monitoring
-- 📋 Student Defaulter List
-- 👨‍🎓 Student Management
-- 🗓️ Timetable Integration
-- 🧮 Attendance and Bunk Calculator
-- 🎓 Student Portal
-- 📈 Attendance Statistics
-- 🌙 Modern Dark-Themed UI
+| Feature | Description |
+|---|---|
+| 📊 Attendance Dashboard | View attendance statistics and summaries |
+| 📝 Daily Attendance | Access daily attendance management |
+| 🚨 75% Attendance Criteria | Monitor attendance against the required threshold |
+| 📋 Defaulter List | Identify students with attendance shortages |
+| 👨‍🎓 Student Management | Organize student-related information |
+| 🗓️ Timetable | Access class schedule information |
+| 🧮 Bunk Calculator | Estimate attendance requirements |
+| 🎓 Student Portal | Provide a student-focused interface |
+| 🌙 Modern UI | Dark-themed dashboard with colorful elements |
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- React
-- TypeScript
-- Vite
-- HTML5
-- CSS3
-- JavaScript
+- **React** — User interface
+- **TypeScript** — Type-safe JavaScript development
+- **Vite** — Development server and build tooling
+- **HTML5** — Page structure
+- **CSS3** — Styling and layout
 
-## 📂 Project Structure
+> Technologies are listed based on the current project setup and should be verified against the source files.
 
-```text
-College-attendance-project/
-├── src/
-├── index.html
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-├── metadata.json
-├── .env.example
-└── README.md
+## 🌐 Project Links
+
+| Resource | Link |
+|---|---|
+| 🚀 Live Application | [Open AttendSphere](https://codesphere-amresh.ai.studio/) |
+| 💻 Source Code | [GitHub Repository](https://github.com/iamresh7355/College-attendence-project) |
+| 👨‍💻 Developer Profile | [GitHub – Amresh Chaubey](https://github.com/iamresh7355) |
+| 🔗 Professional Profile | [LinkedIn – Amresh Chaubey](https://www.linkedin.com/in/amresh-chaubey-57a119415/) |
+
+## 💻 Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/iamresh7355/College-attendence-project.git
